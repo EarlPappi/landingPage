@@ -1,0 +1,4 @@
+background: #000000 , rgb(0,0,0)
+buttonblue: #276DF1 , rgb(39,109,241)
+the whitish:#B1CBFA, rgb(177,203,250)
+grey_matter: #A1A1A1 , rgb(161,161,161)
