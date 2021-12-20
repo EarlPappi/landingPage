@@ -1,0 +1,236 @@
+/* General layout styling */
+.wrapper{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.wrapper-alt{
+    width: 100%;
+    background-color: #F4F9FC;
+}
+
+h1, h2, h3, a{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2{
+    font-size:3em;
+    line-height: 1.5em;
+    text-transform: capitalize;
+}
+
+h3{
+    font-size: 2em;
+    line-height: 1.5em;
+}
+a{
+    color: #292A2E;
+    padding-right: 30px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+a:hover, .btn{
+    padding: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #292A2E;
+    color: white;
+}
+
+h1{
+    font-size: 4em;
+    color: #292A2E;
+    text-transform: capitalize;
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #ABAFB7;
+    width: 80%;
+    line-height: 2em;
+    font-size: 1.2em;
+}
+
+input{
+    margin-top: 40px;
+    width: 60%;
+    padding: 30px;
+    border: none;
+}
+
+span{
+    color: #ABAFB7;
+    font-size: 1.8em;
+    font-weight: 400;
+    line-height: 1.5em;
+}
+
+/* Header section */
+header{
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 80px;
+}
+
+/* Section 1 - Starts */
+.section-1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec-1-1{
+    width: 650%;
+    z-index: 2;
+    margin-top: 15em;
+}
+
+.sec-1-2{
+    width: 30%;
+    z-index: 1;
+}
+
+.sec-1-media1{
+    margin-left: -15em;
+}
+
+.sec-1-1-p{
+    width: 50%;
+    line-height: 2em;
+    margin-top: -2em;
+}
+
+.section-2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    margin-bottom: 60px;
+}
+
+.sec-2-1{
+    width: 48%;
+
+}
+
+.sec-2-2{
+    width: 50%;
+    margin-top: 8em;
+    padding-left: 1em;
+    /* margin-bottom: 80px; */
+}
+
+/* .sec-2-2-in{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+    works the same, but lets go with flex
+} */
+
+.sec-2-inner{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.sec-2-con{
+    width: 25%;
+}
+
+/* Section 3 */
+.section-3{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
+.sec-3-1{
+    width: 45%;
+    margin-top: 4em;
+}
+
+.sec-3-2{
+    width: 45%;
+}
+
+.sec-3-2-med{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec-3-2-p{
+    margin-top: -1.5em;
+    padding-bottom: 1.5em;
+}
+
+.sec-3-img{
+    width: 49%;
+}
+
+.sec-3-img1{
+    width: 49%;
+    margin-top: 3em;
+}
+
+/* Section 4 */
+.section-4{
+    margin-top: 80;
+}
+
+.sec-4-1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec-4-in{
+    width: 32%;
+}
+
+.sec-4-h3col{
+    color: #244275;
+    margin-bottom: -0.7em;
+}
+
+
+/* comment and image part */
+.sec-4-com1, .sec-4-com2, .sec-4-com3{
+    width: 40%;
+    margin-bottom: 80px;
+}
+
+.sec-4-com2{
+    margin-left: 25em;
+}
+
+.sec-4-com3{
+    margin-left: 50em;
+}
+
+.sec-4-com-img{
+    width: 20%;
+}
+
+.sec-4-span{
+    color: black;
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: -80em;
+}
+
+.section-5{
+    padding-top: 80px;
+    padding-bottom: 120px;
+    text-align: center;
+}
+
+.sec-5-p{
+    font-size: 1em;
+    font-weight: normal;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: -2em;
+    padding-bottom: 30px;
+}
