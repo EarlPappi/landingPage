@@ -1,0 +1,11 @@
+bg color: FAF5EF
+button (start a proj): FE7E41
+p (....satisfaction is everything): CBC2BC
+
+our working process  bg: 110705
+text: D8CFCA
+icon color: FE7E41
+
+star color: F9C203
+
+nav: normal-A59B95, active 3F3631
