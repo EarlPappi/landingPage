@@ -6,5 +6,5 @@ Welcome to my hidden space, except its not a hidden space! I started my frontend
 # NOTE: All designs are SICK
 Of course not down with COVID type of sick! I created everything with the basic HTML and CSS I've learnt. Most pages are designs I picked off dribble and recreated with HTML and CSS
 
-- First entry: index_flex. html ==> https://earlpappi.github.io/landingPage/index_flex.html (not really mobile responsive, 7/10 in my impressed opinion)
+- First entry: landing_page_Alan ==> https://earlpappi.github.io/landingPage/index_flex.html (not really mobile responsive, 7/10 in my impressed opinion)
 - 
