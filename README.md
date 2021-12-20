@@ -6,9 +6,9 @@ Welcome to my hidden space, except its not a hidden space! I started my frontend
 # NOTE: All designs are SICK
 Of course not down with COVID type of sick! I created everything with the basic HTML and CSS I've learnt. Most pages are designs I picked off dribble and recreated with HTML and CSS
 
-- 1st entry: landing_page_Alan ==> https://earlpappi.github.io/landingPage/index_flex.html (not really mobile responsive, 7/10 in my impressed opinion)
+- 1st entry: landing_page_Alan ==> https://earlpappi.github.io/landingPage/landing_page_Alan/index_flex.html (not really mobile responsive, 7/10 in my impressed opinion)
 - 2nd entry: webpage_bexon ==> https://earlpappi.github.io/landingPage/webpage_bexon/index.html (haha, quite a little lot of work for my beginner's self but I really "flex" tha helll outta CSS, pun intended. Also, my first time working with fontawesome locally, 6.7/10 in my impressed opinion! Learnt a whole lot from this project)
-- 3rd entry: webpage_estate ==> https://earlpappi.github.io/landingPage//webpage_estate/index.html (time record design, haha! Tidied the css a little bit more)
+- 3rd entry: webpage_estate ==> https://earlpappi.github.io/landingPage//webpage_estate/index.html (time record design, haha! Tidied the css a little bit more, 8.2/10 in my impressed opinion, 0.743 for the speed)
 
 
 
