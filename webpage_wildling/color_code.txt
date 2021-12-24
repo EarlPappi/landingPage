@@ -1,0 +1,9 @@
+top_bg: #EED1C1
+
+deeep_browntext & btn: #463233
+light_brown_bg: #FFFBF8
+lenders_bg: #FFF6F1 
+
+https://prod.liveshare.vsengsaas.visualstudio.com/join?68D3DC6E08601B6065E7EC80D718A18BA3E5
+
+7F56DA
