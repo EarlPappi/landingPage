@@ -1,0 +1,5 @@
+blue-bg: #283F51
+linear-bg: #A1D3AF & #F2F0D0
+gree-aug-text: #557775
+brown-text-on-linear: #949791
+green-btn-bg: #628880

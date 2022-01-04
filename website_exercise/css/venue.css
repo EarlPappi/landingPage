@@ -1,0 +1,36 @@
+.ven-1{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    height: 50%;
+}
+
+.ven-in-1{
+    width: 30%;
+}
+
+.ven-in-2{
+    width: 70%;
+}
+
+iframe{
+    margin-bottom: 7%;
+}
+
+.venue{
+    padding-top: 5%;
+}
+
+p{
+    color: #949791;
+}
+.small-span-alt{
+    color: #557775;
+}
+
+.small-span a{
+    color: #557775;
+}
+.small-span{
+    font-size: 100%;
+}

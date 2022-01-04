@@ -1,0 +1,142 @@
+body{
+    padding: 0;
+    margin: 0px;
+}
+
+header, footer{
+    background-color: #283F51;
+}
+
+.header-bum{
+    padding-bottom: 5%;
+}
+
+.sub-head{
+    background-image: linear-gradient(75deg, #A1D3AF 40%, #F2F0D0 70%);
+    margin-top: 0;
+}
+
+.sub-head div{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+
+li{
+    list-style-type: square;
+
+}
+.sub-head h2{
+    color: #557775;
+    font-size: 200%;
+}
+
+.sub-head p{
+    font-size: 150%;
+    width: 80%;
+    margin: 0 auto;
+    line-height: 150%;
+    color: #949791;
+}
+
+.wrapper{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.head-con-home{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0%;
+}
+
+.head-h1{
+    width: 30%;
+
+}
+
+.head-nav, .footer-nav{
+    text-align: right;
+    width: 60%;
+}
+
+.head-con-home h1{
+    font-size: 400%;
+    color: white;
+}
+
+.head-con-home p, .foot p{
+    color: #557775;
+    padding-top: 10%;
+    font-size: 150%;
+}
+
+.head-con-home a, .foot a{
+    text-decoration: none;
+    color: white;
+    padding-left: 5%;
+    font-weight: bold
+}
+
+.head-con-1{
+    width: 80;
+    margin: 0 auto;
+}
+
+.head-con-1 h2{
+    font-size: 200%;
+    text-align: center;
+    color: #557775;
+    margin-bottom: 5px;
+}
+
+.head-con-1 p{
+    font-size: 150%;
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    line-height: 200%;
+    margin-top: 0;
+}
+
+.foot{
+    padding-bottom: 3%;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.foot div{
+    width: 40%;
+}
+.footer-nav{
+    padding-top: 2%;
+
+}
+
+
+/* general styles ?? */
+h1, h2, h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p, a{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.small-span{
+    font-size: 80%;
+    color: #949791;
+}
+
+.big-span{
+    color: #557775;
+}
+
+
+a:hover{
+    color: #A1D3AF;
+}
