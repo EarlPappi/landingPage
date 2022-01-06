@@ -11,7 +11,7 @@ Of course not down with COVID type of sick! I created everything with the basic 
 - 3rd entry: webpage_estate ==> https://earlpappi.github.io/landingPage//webpage_estate/index.html (time record design, haha! Tidied the css a little bit more, 8.2/10 in my impressed opinion, 0.743 for the speed)
 - 4th entry: webpage_wilding ==> https://earlpappi.github.io/landingPage//webpage_wildling/index.html (more improved css codes, class and element selectors getting more tidies, well, still not responsive design, overall 8/10 in my impressed opinion, great control and improved codes)
 - ### Well well well, my next entry will be my first shot at writing mobile responsive designs
-- 5th entry: website_exercise ==> https://earlpappi.github.io/landingPage//website_exercise/home.html (Hahaha, of course, back with a banger for the new year, I made a proper simple website with all the pages connected. )
-
+- 5th entry: website_exercise ==> https://earlpappi.github.io/landingPage//website_exercise/home.html (Hahaha, of course, back with a banger for the new year, I made a proper simple website with all the pages connected, enjoy structuring the designs and making also first attempt at embeding google map. Oops, not mobile responsive, 7.6/10 in my impressed opinion. I made little effort to attain uniformity of  spacing, font size and color)
+- 6th entry: landing_res ==> https://earlpappi.github.io/landingPage/landing_res/index.html (sixth time they say, is the charm! here is my first shot at responsive design using media query! Made at record time even though its my first time using google font as well! 8.052/10 in my impressed opinion. Little effort was made to the text display and styling. All efort was placed on the responsiveness)
 
 ## SHOOTING FOR THE STARS, AIMING FOR THE MOON VIBES
