@@ -1,0 +1,126 @@
+body {
+    background-color: white;
+    padding-top: 5%;
+}
+
+.main-con {
+    width: 80%;
+    margin: 0 auto;
+    padding: 5%;
+}
+
+.card {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 10%;
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 15%;
+}
+
+.img-con {
+    height: 30%;
+}
+
+h3{
+    text-transform: uppercase;
+    color: grey;
+    font-size: 120%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+p{
+    font-size: 1.5em;
+    padding-top: 5%;
+    border-top: grey 1px solid ;
+    color: blue;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;;
+
+}
+
+.price{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 3em;
+}
+
+.btn{
+    border: 2px blue solid;
+    border-radius: 10px;
+    text-decoration: none;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.alt{
+    background-color: blue;
+    color: white;
+}
+
+
+
+
+@media screen and (min-width: 780px) {
+    body {
+        background-color: blue;
+    }
+
+    .main-con {
+        background-color: white;
+        display: flex;
+        justify-content: space-between;
+        border-radius: 2%;
+        padding-top: 10%;
+        padding-bottom: 0;
+        
+    }
+
+    .card {
+        width: 100%;
+        height: 100%;
+        border-right: 1px grey solid;
+        min-height: 600px;
+    }
+
+    .no-mag{
+        margin: 0 !important;
+    }
+
+    p{
+        font-size: 1.3em;
+    }
+    .img-con {
+        height: 30%;
+    }
+
+    .btn{
+        padding-bottom: 7%;
+        padding-top: 7%;
+        padding-left: 9%;
+        padding-right: 9%;
+        font-size: 120%;
+    }
+
+    .fixed-top{
+        height: 50px;
+    }
+
+    .fixed{
+        padding-bottom: 0 !important;
+        height: 100px;
+    }
+
+}
+
+@media screen and (min-width: 1000px) {
+    .fixed{
+        height: 80px;
+    }
+    
+}
