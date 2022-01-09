@@ -12,6 +12,9 @@ Of course not down with COVID type of sick! I created everything with the basic 
 - 4th entry: webpage_wilding ==> https://earlpappi.github.io/landingPage//webpage_wildling/index.html (more improved css codes, class and element selectors getting more tidies, well, still not responsive design, overall 8/10 in my impressed opinion, great control and improved codes)
 - ### Well well well, my next entry will be my first shot at writing mobile responsive designs
 - 5th entry: website_exercise ==> https://earlpappi.github.io/landingPage//website_exercise/home.html (Hahaha, of course, back with a banger for the new year, I made a proper simple website with all the pages connected, enjoy structuring the designs and making also first attempt at embeding google map. Oops, not mobile responsive, 7.6/10 in my impressed opinion. I made little effort to attain uniformity of  spacing, font size and color)
-- 6th entry: landing_res ==> https://earlpappi.github.io/landingPage/landing_res/index.html (sixth time they say, is the charm! here is my first shot at responsive design using media query! Made at record time even though its my first time using google font as well! 8.052/10 in my impressed opinion. Little effort was made to the text display and styling. All efort was placed on the responsiveness)
+- 6th entry: landing_res ==> https://earlpappi.github.io/landingPage/landing_res/index.html (sixth time they say, is the charm! here is my first shot at responsive design using media query! Made at record time even though its my first time using google font as well! 8.052/10 in my impressed opinion. Little effort was made to the text display and styling. All effort was placed on the responsiveness)
+- 7th entry: landing_kulijawa ==> https://earlpappi.github.io/landingPage/landing_kulijawa/index.html (seven is a sign of perfection in the kanchuta kingdom, unfortunately the figure was/is never responsive and so is this design. Sleek, cleaner codes, 8.021123/10 in my impressed opinion)
+
+### Hunting responisve designs to recreate 
 
 ## SHOOTING FOR THE STARS, AIMING FOR THE MOON VIBES
