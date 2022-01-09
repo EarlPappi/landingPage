@@ -1,0 +1,267 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.parent-container {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.wrapper {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.flex-dis {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+    padding-bottom: 3%;
+}
+
+.header-logo {
+    width: 10%;
+}
+
+.header-nav {
+    width: 80%;
+    text-align: center;
+}
+
+.header-con {
+    width: 10%;
+}
+
+nav a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 100%;
+    text-decoration: none;
+    padding-left: 4%;
+    color: #7A7876;
+}
+
+nav a:active, nav a:hover {
+    color: #0C646D;
+}
+
+.btn-head {
+    border: 2px solid #0C646D !important;
+    color: #0C646D !important;
+    padding-left: 3%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 10px;
+}
+
+.btn-head:hover{
+    color: white !important;
+    background-color: #0c636d2a;
+}
+
+.btn-head a {
+    color: #0C646D;
+}
+
+
+
+.sec-1-h1 {
+    width: 60%;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 400%;
+    line-height: 120%;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 300%;
+    line-height: 120%;
+}
+
+h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 200%;
+    line-height: 120%;
+}
+
+p {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.sec-1-p {
+    color: #7A7876;
+    line-height: 200%;
+    padding-bottom: 2%;
+}
+
+.btn-sec-1 {
+    text-decoration: none;
+    background-color: #0C646D;
+    color: white;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.btn-sec-1:hover{
+    background-color: transparent;
+    border: #0C646D 2px solid;
+    color: #0C646D;
+}
+
+.sec-2 {
+    margin-top: 5%;
+}
+
+.sec-2 h2 {
+    width: 50%;
+}
+
+.sec-2-in {
+    width: 25%;
+}
+
+.sec-2-in h3 {
+    margin-bottom: 0;
+}
+
+.sec-2-in p {
+    margin-top: 5%;
+}
+
+.sec-3 {
+    align-items: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.sec-3-in, .sec-3-in-img {
+    width: 49%;
+
+}
+
+.sec-3-in-con{
+    width: 45%;
+}
+
+.sec-3-in-con h3{
+    margin-bottom: 5%;
+}
+
+.sec-3-in-con p{
+    margin-top: 5%;
+    line-height: 150%;
+}
+.h3-alt{
+    color: #0C646D;
+    font-size: 150%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.sec-4{
+    padding-bottom: 5%;
+}
+
+.sec-4 h2{
+     width: 60%;
+}
+
+.sec-4-b{
+    align-items: center;
+}
+
+.sec-4-in{
+    width: 20%;
+    padding-top: 3%;
+    text-align: right;
+    height: 150%;
+
+}
+
+.sec-4-img{
+    width: 32%;
+    border-radius: 5px;
+}
+
+.sec-4-in a{
+    text-align: center;
+    display: inline-block;
+    width: 70%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.sec-5{
+    background-color: #0C646D;
+    color: white;
+    padding-bottom: 4%;
+}
+
+.sec-5-in{
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.sec-5-in h2{
+    font-size: 250%;
+    margin-bottom: 2%;
+}
+
+.sec-5-in p{
+    margin-top: 0;
+    margin-bottom: 3%;
+}
+
+.sec-5-in a{
+    text-decoration: none;
+    background-color: white;
+    color: #0C646D;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+}
+
+.sec-5-in a:hover{
+    border: white 2px solid;
+    color: white;
+    background-color: transparent;
+}
+
+
+footer{
+    text-align: center;
+    padding-top: 2%;
+}
+
+.foot-con{
+    border-bottom: #7A7876 solid 2px ;
+    padding-bottom: 2%;
+}
+
+i{
+    color: #0C646D;
+    padding: 1%;
+}
+
+footer nav{
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
