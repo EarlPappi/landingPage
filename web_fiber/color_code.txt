@@ -1,0 +1,3 @@
+butter-bg: #FBF8F3
+blue: #4D13D1
+brownish-text: #4F4F4F
