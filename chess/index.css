@@ -10,8 +10,7 @@ main{
     display: grid;
     grid-template-columns: repeat(8, 1fr);
     border: 6px solid black;
-    margin: 0 auto;    
-    min-width: 700px;
+    margin: 0 auto;  
 }
 
 /* the space each chess spot occupies */
